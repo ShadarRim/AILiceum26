@@ -12,6 +12,14 @@
 [5] [Pandas 2](https://github.com/ShadarRim/AILiceum26/blob/main/05_Pandas%202.ipynb)\
 [6] [Визуализация и EDA](https://github.com/ShadarRim/AILiceum26/blob/main/06_%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%2B_EDA.ipynb)
 
+## Модуль №2: Основы ML
+
+[7] [Об ML](https://github.com/ShadarRim/AILiceum26/blob/main/07_%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%20ML.pptx) \
+[8] [Концепция ML](https://github.com/ShadarRim/AILiceum26/blob/main/08_ML_intruduction.ipynb) \
+[9] [Дерево решения](https://github.com/ShadarRim/AILiceum26/blob/main/09_%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F.ipynb) \
+[10] [Оценка качества классификации](https://github.com/ShadarRim/AILiceum26/blob/main/10_%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0_%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8.ipynb) \
+
+
 ## Задания модуля №1: Основы Python
 
 [1] [Диагностическое соревнование](https://contest.yandex.ru/contest/91093/enter)\
@@ -24,6 +32,10 @@
 [8] !Дописать реализацию дерева решения\
 [9] На анализированных в пункте 6 данных решить любую задачу классификации. 
 
+## Задания модуля №2: Основы ML	
+
+[10] [Решаем задачу на kaggle впервые](https://www.kaggle.com/competitions/titanic)\
+[11] [Простая задача для решения](https://github.com/ShadarRim/AILiceum26/blob/main/a02_%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0.PNG)\
 
 
 ## Дополнительные материалы
